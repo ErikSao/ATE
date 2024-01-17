@@ -1,0 +1,9 @@
+D:\2.研发项目\PAHost\PAHost\PACommon\bin\Debug\PACommon.dll
+D:\2.研发项目\PAHost\PAHost\PACommon\bin\Debug\PACommon.pdb
+D:\2.研发项目\PAHost\PAHost\PACommon\bin\Debug\log4net.dll
+D:\2.研发项目\PAHost\PAHost\PACommon\bin\Debug\log4net.xml
+D:\2.研发项目\PAHost\PAHost\PACommon\obj\Debug\PACommon.csproj.CoreCompileInputs.cache
+D:\2.研发项目\PAHost\PAHost\PACommon\obj\Debug\PACommon.csproj.CopyComplete
+D:\2.研发项目\PAHost\PAHost\PACommon\obj\Debug\PACommon.dll
+D:\2.研发项目\PAHost\PAHost\PACommon\obj\Debug\PACommon.pdb
+D:\2.研发项目\PAHost\PAHost\PACommon\obj\Debug\PACommon.csproj.AssemblyReference.cache
