@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/gcsorter.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/snipaste_2024-07-16_15-43-52.png")]
 
 
