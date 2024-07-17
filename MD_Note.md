@@ -124,7 +124,7 @@ public static ushort CalculateCRC(byte[] addr)
 
 
 ## 任务列表
--   [] 未完成的任务
+-   [ ] 未完成的任务
 -   [x] 已完成的任务
 
 
